@@ -19,7 +19,7 @@ function iLoveTheBeatles() {
   i =i++
 }
  do {
-   console.log('I love the Beatles!')
- } while (i > 15)
+   console.log('I love the Beatles!');
+ } while (i > 15);
 
 
