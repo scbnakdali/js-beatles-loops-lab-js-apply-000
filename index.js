@@ -14,5 +14,6 @@ while (johnLennonFacts) {
   console.log('${facts} +!')
 }
 
+var i = 1
 function iLoveTheBeatles()
 
