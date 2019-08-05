@@ -1,1 +1,15 @@
 // add solution here
+var musicians = ["John Lennon","Paul McCartney", "George Harrison", "Ringo Starr"];
+
+var instruments = ["guitar", "base guitar", "lead guitar", "drums", ];
+
+function theBeatlesPlay(musicians, instruments) 
+for (let i=1; i < 4; i++) 
+  console.log('${musicians} + plays + ${instruments}.')
+}
+
+function johnLennonFacts();
+
+while (johnLennonFacts) {
+  console.log('${facts} +!')
+}
