@@ -8,8 +8,11 @@ for (let i=1; i < 4; i++)
   console.log('${musicians} + plays + ${instruments}.')
 }
 
-function johnLennonFacts();
+function johnLennonFacts(const facts);
 
 while (johnLennonFacts) {
   console.log('${facts} +!')
 }
+
+function iLoveTheBeatles()
+
