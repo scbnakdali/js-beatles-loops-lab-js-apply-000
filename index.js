@@ -16,6 +16,6 @@ while (johnLennonFacts) {
 
 var i = 1;
 function iLoveTheBeatles() {
-  
+  i =i++
 }
 
