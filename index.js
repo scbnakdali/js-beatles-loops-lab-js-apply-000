@@ -19,7 +19,7 @@ function iLoveTheBeatles() {
   i =i++
 }
  do {
-   console.log
+   console.log('I love the Beatles!')
  }
 
 
